@@ -1,6 +1,6 @@
 @charset "utf-8";
 html{
-    background-color: white;
+    background-color: #009999;
 }
 a{
     color: #000000;
@@ -19,5 +19,8 @@ li:hover{
 }
 #Globalmenu{
     position: absolute;
-    right: 10%;
+    right: 50%;
+}
+#Thispage{
+    border: 1px solid #000000;
 }
